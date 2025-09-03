@@ -1,4 +1,8 @@
 # Whiteboard: A Digital Drawing Application
+
+<img width="1311" height="749" alt="image" src="https://github.com/user-attachments/assets/458325cb-d4cb-46c5-a6b0-7a8da3c68cbd" />
+
+
 ## 🗂️ Description
 
 The Whiteboard project is a digital drawing application that provides a graphical user interface (GUI) for users to create, edit, and manipulate visual content. This application is designed for individuals who need a simple and intuitive tool for drawing, annotating, and saving images. The Whiteboard application allows users to draw shapes, text, and lines, select and manipulate objects, pick colors, use an eraser, and save the canvas as an image.
