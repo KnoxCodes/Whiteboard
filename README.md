@@ -27,15 +27,6 @@ The application is built using Python and leverages the Tkinter library for crea
 * Intuitive GUI with a simple layout
 * Interactive tools for drawing and editing
 
-## 🗂️ Folder Structure
-
-```mermaid
-graph TD;
-src-->main.py;
-src-->build.bat;
-src-->installer.iss;
-src-->gitignore;
-```
 
 ## 🛠️ Tech Stack
 
@@ -62,9 +53,6 @@ To build and install the application:
 * Run the build script: `build.bat`
 * Follow the installation prompts to install the application.
 
-## 📝 GitHub Actions
-
-No GitHub Actions are currently configured for this repository.
 
 ## 📁 Files and Directories
 
@@ -81,10 +69,7 @@ The following files and directories are present in the project:
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/217230820?v=4" width="120" />
 <h3>Knox</h3>
-<p>No information provided.</p>
 </div>
 <br>
-<p align="right">
-<img src="https://gitfull.vercel.app/appLogo.png" width="20"/>  <a href="https://gitfull.vercel.app">Made by GitFull</a>
-</p>
+
     
